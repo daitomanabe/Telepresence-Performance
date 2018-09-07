@@ -1,4 +1,4 @@
-# "telepresence live performance”  
+# telepresence art
   
 This is a survey of where recent telepresence live performance comes from.   
 I totally understand this list is incomplete and also subjective.  
@@ -517,12 +517,19 @@ https://www.youtube.com/watch?v=lgdASCXJjNk&
   
 ## Reference List  
 Eduardo Kac, “Telepresence & Bio Art: Networking Humans, Rabbits, & Robots”
-https://books.google.co.jp/books?id=za3J9pFssNEC&pg=PA182&lpg=PA182&dq=winke+winke+x-space&source=bl&ots=qfHb2Z09Ws&sig=KB8tucCMyCpJGLOAW0SnoHxFVTw&hl=en&sa=X&sqi=2&ved=2ahUKEwis2bqInIDdAhXBhJAKHYXBAGYQ6AEwEnoECAYQAQ#v=onepage&q=winke%20winke%20x-space&f=false  
-A. Barbosa, ‘‘Displaced SoundScapes a survey of network systems for music and sonic art creation,’’ *Leonardo Music J.*, vol. 13, pp. 53–59, Dec. 2003.
+https://books.google.co.jp/books?id=za3J9pFssNEC  
+  
+A. Barbosa, ‘‘Displaced SoundScapes a survey of network systems for music and sonic art creation,’’  
+ *Leonardo Music J.*, vol. 13, pp. 53–59, Dec. 2003.  
+
 https://www.mitpressjournals.org/doi/pdf/10.1162/096112104322750791  
-CRISTINA ROTTONDI, CHRIS CHAFE, CLAUDIO ALLOCCHIO, AND AUGUSTO SARTI, “An Overview on Networked Music Performance Technologies”
+
+CRISTINA ROTTONDI, CHRIS CHAFE, CLAUDIO ALLOCCHIO, AND AUGUSTO SARTI,   
+“An Overview on Networked Music Performance Technologies”  
+
 https://ieeexplore.ieee.org/document/7769205/  
 
 ## contributors  
-Kousaku Namikawa
+Kousaku Namikawa  
+
 Osamu Suzuki  
